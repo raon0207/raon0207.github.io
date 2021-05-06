@@ -131,4 +131,11 @@ compress_html:
 sass:
   style:             compressed
 
-
+tipue_search:
+     include:
+         pages: false #include 부분의 pages: false​의 설정은 pages 레이아웃에 해당하는 일반 html페이지는 검색하지 않겠다는 것을 의미한다.(포스트 내용 검색에 집중하기 위함) 
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html] # exclude 부분의 ​search.html, index.html, tags.html​ 페이지는 검색에서 제외하겠다는 것을 의미한다.
+         categories: []
+         tags: []
