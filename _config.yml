@@ -23,7 +23,7 @@ description:         >
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Mincheol Yang
-  email:             ymch0207@naver.com.com
+  email:             ymch0207@naver.com
 
 # Fallback image and color
 image:               /assets/img/main_left.JPG
