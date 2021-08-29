@@ -40,15 +40,10 @@ font-weight:bold">
 ---
 
 * Computer Vision
-    + image Object Detection
-    + Vot
-    + Semantic/Instance Segmentation
-    + Super Resolution
+    
 
 * Machine Learning / Deep Learning
-    + GAN
-    + Few-Shot Learning
-    + Meta Learning
+  
 
 ## Project
 ---
