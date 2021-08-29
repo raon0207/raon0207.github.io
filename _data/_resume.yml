@@ -2,12 +2,12 @@
 # To use this file, rename it to `resume.yml` and delete `resume.json`.
 ---
   basics:
-    name: "Hyunwoo Kim"
+    name: "Mincheol Yang"
     label: "Programmer"
     picture: assets/img/me.jpg
-    email: "khw11044@gmail.com"
+    email: "ymch0207@naver.com"
     phone: ""
-    website: "https://blog.naver.com/khw11044"
+    website: "https://blog.naver.com/ymch0207"
     summary: |
       Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and
       Cardinals!)
